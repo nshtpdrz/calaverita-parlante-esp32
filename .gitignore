@@ -1,0 +1,10 @@
+# Credenciales locales
+secrets.h
+
+# Arduino / PlatformIO
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+.vscode/
