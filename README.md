@@ -56,6 +56,13 @@ Una tarea FreeRTOS fijada al núcleo 0 lee el micrófono, decide si hay voz, gra
 | Respuestas HTTP por partes | Lector propio de transferencia chunked. |
 | La calavera se escuchaba a sí misma | Ventana de 700 ms en la que ignora el micrófono tras hablar. |
 
+## Fotografías
+
+![Calaverita ensamblada: ojos en dos pantallas OLED y LED rojo de boca (16 oct 2026).](docs/img/calaverita-ensamblada.jpg)  
+*Calaverita ensamblada: ojos en dos pantallas OLED y LED rojo de boca (16 oct 2026).*
+
+🎥 [Video de demostración (15 s)](docs/demo.mp4): ojos animados y LED de boca reaccionando.
+
 ## Estructura del repositorio
 
 ```
@@ -76,6 +83,7 @@ docs/diagrama.svg
 
 ## Evolución
 
+- **asistente_esp32_gemini · ago 2026:** Primer asistente de voz: ESP32 con INMP441, OLED y LED RGB conectado a Gemini.
 - **calavera_prueba:** Versión sin conexión: reacciona a voz con audios grabados y ojos animados.
 - **calavera_prueba2 · oct 2026:** Añade Wi-Fi, Gemini, palabra clave y voz generada.
 
