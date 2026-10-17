@@ -61,6 +61,8 @@ Una tarea FreeRTOS fijada al núcleo 0 lee el micrófono, decide si hay voz, gra
 ![Calaverita ensamblada: ojos en dos pantallas OLED y LED rojo de boca (16 oct 2026).](docs/img/calaverita-ensamblada.jpg)  
 *Calaverita ensamblada: ojos en dos pantallas OLED y LED rojo de boca (16 oct 2026).*
 
+🎥 [Video del ciclo de respuesta (21 s)](docs/respuesta.mp4): mientras piensa, LED morado y ojos hacia arriba; al contestar, LED rojo de boca al ritmo de la voz.
+
 🎥 [Video de demostración (15 s)](docs/demo.mp4): ojos animados y LED de boca reaccionando.
 
 ## Estructura del repositorio
